@@ -24,4 +24,10 @@
 <h2>VLSM</h2>
 <img src="https://cdn.discordapp.com/attachments/1153305482438660178/1181573627683016825/image.png?ex=65818d31&is=656f1831&hm=595f3e13aa2ad61c72443b4eb1b87a2e701a3eee8efddda474a75223a5d68985&">
 
+<h1>CIDR in GNS3 (on progress)</h1>
 
+<h2>Routing</h2>
+<img src="https://media.discordapp.net/attachments/359770377158787072/1181922669017436221/image.png?ex=6582d243&is=65705d43&hm=7d5f836c2e807577eb9d31e6778ea693e124159f41c92bbb05fb32e60b9d1940&=&format=webp&quality=lossless&width=634&height=459">
+
+<h2>CIDR</h2>
+<img src="https://media.discordapp.net/attachments/359770377158787072/1181923881888526376/Screenshot_2023-12-02_214912.png?ex=6582d364&is=65705e64&hm=63794fc90418742539bb99d76556bbb40dd90f247378a409cd8386d0989f9036&=&format=webp&quality=lossless&width=1088&height=702">
