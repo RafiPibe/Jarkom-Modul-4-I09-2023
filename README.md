@@ -30,4 +30,4 @@
 <img src="https://media.discordapp.net/attachments/359770377158787072/1181922669017436221/image.png?ex=6582d243&is=65705d43&hm=7d5f836c2e807577eb9d31e6778ea693e124159f41c92bbb05fb32e60b9d1940&=&format=webp&quality=lossless&width=634&height=459">
 
 <h2>CIDR</h2>
-<img src="https://media.discordapp.net/attachments/359770377158787072/1181923881888526376/Screenshot_2023-12-02_214912.png?ex=6582d364&is=65705e64&hm=63794fc90418742539bb99d76556bbb40dd90f247378a409cd8386d0989f9036&=&format=webp&quality=lossless&width=1088&height=702">
+<img src="https://media.discordapp.net/attachments/359770377158787072/1181924300735922196/image.png?ex=6582d3c8&is=65705ec8&hm=2f54463712e243579841c3d2852208eddadfb04d08d68a1fcaabb8cad571a0ad&=&format=webp&quality=lossless&width=1089&height=702">
